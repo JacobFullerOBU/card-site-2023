@@ -1,10 +1,7 @@
-h1{
-    text-align: center;
-    text-decoration: underline;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: x-large;
-
+html{
+    background-color: lightgoldenrodyellow;
 }
+
 #title{
     text-align: center;
     text-decoration: underline;
